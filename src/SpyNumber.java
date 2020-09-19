@@ -19,7 +19,7 @@ public class SpyNumber {
 
         Scanner input = new Scanner(System.in);
 
-        // System.out.print("Enter a Number: ");
+        System.out.print("Enter a Number: ");
         number = input.nextInt();
         int num = number;
 
